@@ -1,0 +1,386 @@
+
+
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+font-family: 'Vesper Libre', serif;
+
+}
+
+body {
+
+
+.burn {
+    width: 80%;
+    margin: 0 auto;
+    background: rgba(0, 0, 0, .4);
+    background-blend-mode: color-burn;
+    height: 100vh;
+    padding: 1em;
+}
+
+
+
+.bg-image {
+    background-color: grey;
+    background-image: url(img/dw.webp);
+    height: 100vh;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-blend-mode: color-burn;
+
+}
+
+
+
+
+nav {
+    background-image: url(img/aaa.jpg);
+    background-repeat: ;
+    font-family: Forum, sans-serif;
+
+}
+
+ul {
+    background: rgba(0, 0, 0, .6);
+    display: flex;
+}
+
+li {
+    list-style: none;
+    padding: 1.2em 2em;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 900;
+    color: rgba(20, 57, 21, .41);
+    text-decoration: none;
+    color: white;
+    font-size 1.4rem;
+    font-family: 'Forum', cursive;
+
+
+}
+
+
+
+
+h1 {
+    color: white;
+    padding: 0px;
+    font-size: 5rem;
+font-family: 'Coda Caption', sans-serif;
+    width: 100%;
+    border-bottom: 2px white solid;
+    width: 45%;
+    
+}
+
+.top {
+    font-size: 2em;
+    margin-bottom: -.5em;
+    padding-top: 150px;
+    padding-left: 2%;
+    color: white; 
+    font-family: Forum, sans-serif;
+    font-weight: 600;
+    letter-spacing: .6;
+    color: brown;
+}
+
+
+.last {
+    font-family: Forum, sans-serif;
+    letter-spacing: 1;
+    color: white;
+    margin-left: 958px;
+    padding-top: 13rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+
+
+.btn {
+    padding: 1rem 5rem;
+    background: rgba(20, 57, 21, 1);
+    color: white;
+    position: absolute;
+    text-decoration: none;
+
+    border-radius: 150px;
+    border: white 2px solid;
+    font-size: 1.5em;
+    bottom: 0;
+    left: 13%;
+    bottom: -135px;
+
+}
+
+
+
+
+section {
+
+
+    background: url(img/1bg.jpg);
+    width: 100%;
+
+}
+
+
+.pg2 {
+    font-weight: bold;
+    color: rgba(20, 57, 21, .9);
+    padding: 0;
+    margin: .5em;
+    display: ;
+    font-family: 'Coda Caption', sans-serif;
+
+
+}
+
+
+.lines{
+    width: 65%;
+
+margin: 0 auto;
+}
+
+
+.para {
+    font-family: Forum, sans-serif;
+
+
+    display: ;
+    padding: 2em;
+    text-align: center;
+    color: rgba(20, 57, 21, .9);
+
+
+}   
+
+.heading {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 2em;
+   font-family: 'Coda Caption', sans-serif;
+   font-weight:;
+
+    color:brown;
+    border: none;
+    font-size: 4rem;
+    font-weight: bold;
+
+}
+
+img {
+    height: auto;
+    width: 99%;
+    padding-bottom: 1em;
+    border-radius: 24px;
+}
+
+
+
+.last2 {
+    display: flex;
+    flex-direction: column;
+    width: 57%;
+}
+
+
+.right {
+    margin: 0 550px 0;
+    width: 60%;
+}
+
+
+
+
+
+
+
+
+/*PAGE 3EEEEEEE*/
+
+
+
+
+.contact2 {
+    background: url(img/na.jpg);
+    width: 170%;
+    height: 100vh;
+    overflow: hidden;
+
+}
+
+ 
+
+form {
+    display: flex;
+    flex-direction: row;
+    background: rgba(20, 57, 21, .4);
+    justify-content: flex-end;
+    align-self: flex-end;
+    padding-top: 3em;
+    height: 100vh;
+    width: 107%;
+    position: relative;
+    z-index: -2;
+    font-family: inherit;
+    font-weight: 600;
+
+}
+
+
+
+.name .email .send input {
+    color: rgba(20, 57, 21, .9);
+
+
+}
+
+.right2 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width:  55%;
+
+
+
+}
+
+.name {
+    width: 110%;
+    margin-top: 3em;
+        
+}
+
+
+form {padding: .8em}
+
+input {
+    padding: 1.2em;
+    font-family: Poppins, cursive;
+    color: #777;
+    border-radius: 150px;
+    border: none;
+    box-shadow: 5px 5px 5px rgba(20, 57, 21, .6);
+    width: 75%;
+    
+
+}
+
+
+.email {
+    margin-bottom: 19em;
+    width: 155%;
+}
+
+
+label {
+    font-family: forum, cursive;
+    padding: 1em;
+}
+
+
+
+}
+
+input {
+    background: color: rgba(20, 57, 21, .9);
+    ;
+    
+}
+
+
+
+
+
+wrapper {
+            background-image: url(img/z.jpg);
+position: relative;    display: flex; 
+    z-index:-100;
+
+}
+
+
+h2 {
+    font-size: 3em;
+    position: absolute;
+    right: 60;
+    top: -80;
+    bottom: ;
+}
+
+
+.contact {
+    position: relative;
+}
+
+
+
+
+
+
+
+footer {
+    display: flex;
+    align-items: baseline;
+    color: rgba(20,57,	21, .7);
+        background:;
+    height: auto;
+    width: ;
+    display:  flex;
+     justify-content: center;
+    flex-direction: row-reverse;
+
+}
+
+
+.link{
+    position:;    
+     padding: 1rem;
+        color: rgba(20, 57, 21, .5);
+    font-size: 1rem;
+
+    background: rgba(20, 57, 21, .5);
+}
+ 
+
+map{ 
+    
+    color: rgba(20,57,	21, .9);
+    font-size: 1rem;
+
+}
+
+.link{
+        text-align: center;
+
+ 
+}
+
+
+.sociala, .link{
+    margin: 1em;
+    text-align: center;
+ border: 3px solid rgba(20,	57,	21, .3);
+       box-shadow: 5px 5px 5px rgba(20, 57, 21, .5);
+    background: rgba(20,57,	21, .3);
+    border-radius: 150px;
+        padding: 1rem;
+    color: rgba(20, 57, 21, .9);
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 2em 0.7em;
+
+
+}
