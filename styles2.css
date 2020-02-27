@@ -37,21 +37,6 @@ body {
 
 
 
-nav {
-
-    background-image: url(img/aaa.jpg);
-    background-repeat: ;
-    font-family: Forum, sans-serif;
-    color: #FFF904;
-
-
-}
-
-ul {
-    background: rgba(0, 0, 0, .6);
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
 
 }
 
