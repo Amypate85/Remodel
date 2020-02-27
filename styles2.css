@@ -8,9 +8,7 @@ font-family: 'Vesper Libre', serif;
 
 }
 
-body {
-    background-color: blue;
-}
+
 
 
  .burn {
@@ -36,10 +34,12 @@ body {
 }
 
 
-
-
-
+body {
+    background-color: blue;
 }
+
+
+
 
 li {
     list-style: none;
